@@ -31,4 +31,4 @@ Atualmente estudando e praticando automação de testes, com o objetivo de forta
 
 ### 📫 Onde me encontrar
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/raul-silveira-148485104/))  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raul-silveira-148485104/)  
